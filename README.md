@@ -17,8 +17,21 @@
 
 설명 : 교수와 학생의 개인 일정관리 기능과 일정 조율을 위한 일정통합, 투표개설, 투표참여, 투표수정, 투표확정 기능을 구성하였다. 교수는 학생의 개인일정들을 한 눈에 쉽게 보기 위해 개인 캘린더가 아닌 공용캘린더에 통합된 일정을 표시하고, 표시된 일정을 보고 여유있는 시간대를 추출하여 학생들에게 가능한 시간대를 투표하게 한다. 투표 상태에 따라 투표수정과 투표확정을 할 수 있게 되고, 투표확정이 되면 각 개인 캘린더에 확정된 일정이 표시되면서 일정 조율을 마감한다.
        
-Github : [https://github.com/leejongwook1/Calendar](https://github.com/leejongwook1/Calendar)
-       
+Github : [github.com/leejongwook1/Calendar](https://github.com/leejongwook1/Calendar)
+
+---
+
+## React와 Firebase를 활용한 Twitter 앱
+`개인 프로젝트, 2021~1~2021.1`
+
+개발동기 : React의 컴포넌트와 hook을 활용하고, Firebase의 auth, storage, cloud firestor 등을 지원하는 기본적인 기능을 숙지하고 활용해 보기 위해 진행했다.
+
+설명 : 소셜 로그인이나 홈페이지 로그인을 통해 인증을 하여 글과 사진을 남기며 삭제와 수정을 할 수 있고, 실시간으로 데이터 처리가 되어 보다 빠르게 반응한다. 또한, 남긴 글과 사진을 실시간으로 다른 사용자에게도 보여지면서 채팅앱과 비슷한 형식을 구현했다.
+
+Web site: [leejongwook1.github.io/lwitter](https://leejongwook1.github.io/lwitter/#/)
+
+Github : [github.com/leejongwook1/lwitter](https://github.com/leejongwook1/lwitter)
+
 ---
 
 ## React를 활용한 영화 앱
