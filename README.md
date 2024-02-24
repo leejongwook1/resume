@@ -45,6 +45,26 @@ Web Site : [leejongwook1.github.io/leejongwook_movie_app_2021](https://leejongwo
 
 Github : [github.com/leejongwook1/leejongwook_movie_app_2021](https://github.com/leejongwook1/leejongwook_movie_app_2021)
 
+---
+
+## KT 중계사 및 홀세일 SM/SI
+`회사 업무, 2021~3~2023.12`
+
+1. 헤르메스 SM
+- 기간 : 2021.3 ~ 2023.12
+- 개요 : RCS 메시징 서비스
+- 역할 : KT RCS 중계사 및 홀세일 유지보수 업무.
+
+2. 헤르메스 양방향 SI
+- 기간 : 2022.1 ~ 2022.6
+- 개요 : 기업의 A2P 메시지에 대한 단말 사용자의 응답 메시지 처리를 위한 시스템 개발.
+- 역할 : KT 대행사 및 중계사 양방향 메시지 처리를 위한 API 및 스케줄러 개발 및 테스트.
+
+3. 헤르메스 국사 이원화
+- 기간 : 2022.10 ~ 2023.9
+- 개요 : 분당/대전 국사 이원화.
+- 역할 : 중계사 및 홀세일 국사 이원화 개발 및 테스트.
+
 
 # 프로그래밍 언어 및 도구
 
