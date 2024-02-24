@@ -56,7 +56,7 @@ Github : [github.com/leejongwook1/leejongwook_movie_app_2021](https://github.com
 
 # 학력
 - 2011.3 ~ 2014.2 안산 선부고등학교 졸업
-- 2014.3 ~ 2021.2 오산 한신대학교 컴퓨터공학과 졸업예정
+- 2014.3 ~ 2021.2 오산 한신대학교 컴퓨터공학과 졸업
 
 
 # 더 보기
