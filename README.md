@@ -1,83 +1,108 @@
-# 소개
+# 👨‍💻 이종욱 | Backend & Operations Engineer
 
-<img alt="깃헙 프로필 사진" src="https://avatars3.githubusercontent.com/u/60126161?s=460&u=40c18949d64936abf9d648742d696517fc48e390&v=4" width="200">
-
-* 이종욱
-* Email : dkfxnqlxmrkt@naver.com
-* Github : [github.com/leejongwook1](https://github.com/leejongwook1)
-* Portfolio : [leejongwook1.github.io](https://leejongwook1.github.io/)
-
-
-
-# 프로젝트
-## TOAST UI와 Django를 활용한 교수와 학생의 일정조율 웹 어플리케이션
-`팀 프로젝트, 2020.2~2020.11`
-
-개발동기 : 학교생활에 있어 교수와 학생간의 시험일정, 보강일정 등을 잡는 것이 개인일정을 일일히 고려하기에는 너무나 많은 제약사항이 있다고 생각했다. 이와 관련된 일정들을 효율적으로 조율하기 위해 일정조율 웹 어플리케이션이 필요했다.
-
-설명 : 교수와 학생의 개인 일정관리 기능과 일정 조율을 위한 일정통합, 투표개설, 투표참여, 투표수정, 투표확정 기능을 구성하였다. 교수는 학생의 개인일정들을 한 눈에 쉽게 보기 위해 개인 캘린더가 아닌 공용캘린더에 통합된 일정을 표시하고, 표시된 일정을 보고 여유있는 시간대를 추출하여 학생들에게 가능한 시간대를 투표하게 한다. 투표 상태에 따라 투표수정과 투표확정을 할 수 있게 되고, 투표확정이 되면 각 개인 캘린더에 확정된 일정이 표시되면서 일정 조율을 마감한다.
-       
-Github : [github.com/leejongwook1/Calendar](https://github.com/leejongwook1/Calendar)
+## 📧 Contact
+* **Email** : dkfxnqlxmrkt@naver.com
+* **Github** : [github.com/leejongwook1](https://github.com/leejongwook1)
+* **Portfolio** : [leejongwook1.github.io](https://leejongwook1.github.io/)
 
 ---
 
-## React와 Firebase를 활용한 Twitter 앱
-`개인 프로젝트, 2021~1~2021.1`
+## 💼 Work Experience
 
-개발동기 : React의 컴포넌트와 hook을 활용하고, Firebase의 auth, storage, cloud firestor 등을 지원하는 기본적인 기능을 숙지하고 활용해 보기 위해 진행했다.
+### **휴머스온 (Humuson)**
+`운영개발팀 · 프로 | 2024.05 ~ 2026.04`
 
-설명 : 소셜 로그인이나 홈페이지 로그인을 통해 인증을 하여 글과 사진을 남기며 삭제와 수정을 할 수 있고, 실시간으로 데이터 처리가 되어 보다 빠르게 반응한다. 또한, 남긴 글과 사진을 실시간으로 다른 사용자에게도 보여지면서 채팅앱과 비슷한 형식을 구현했다.
+#### **① n8n 및 AI 활용 운영 효율 증진**
+* **운영 프로세스 자동화** — n8n을 활용하여 MySQL 파티션 케이블의 정기적 관리(생성/삭제) 및 API 상태 정밀 점검 체계 구축.
+* **지능형 알림 시스템** — 시스템 이상 징후 발생 시 MS Teams 및 이메일로 실시간 자동 전송하는 통합 관제 자동화.
+* **AI 연동 리포트 분석** — 발송 리포트 자동 생성 및 AI 연동을 통해 주요 발송 지표의 심층 분석 결과를 도출하는 업무 워크플로우 구현.
 
-Web site: [leejongwook1.github.io/lwitter](https://leejongwook1.github.io/lwitter/#/)
+#### **② 멀티 채널 메시징 엔진 고도화**
+* **통합 발송 로직 구현** — Kakao(알림톡/친구톡/브랜드메시지), Push(FCM/APNS), Email(SMTP) 등 멀티 채널 엔진 개발.
+* **리소스 최적화** — 대용량 데이터 처리 시 리소스 병목을 방지하기 위해 단계별 수행 로직을 적용하여 처리 성능 및 안정성 최적화.
+* **보안 및 가용성** — 화이트리스트 기능 추가 및 대규모 트래픽 부하 분산 처리를 통해 무중단 서비스 환경 구축.
 
-Github : [github.com/leejongwook1/lwitter](https://github.com/leejongwook1/lwitter)
+#### **③ 비즈니스 온보딩 및 마이그레이션 자동화**
+* **온보딩 리소스 Zero화** — 신규 고객 유입 시 발생하는 운영 업무를 완전 자동화하여 휴먼 에러 방지 및 리소스 제로 달성.
+* **표준화 마이그레이션** — 신규 계약 시 필요한 데이터 마이그레이션 규격을 표준화하고, 규격화된 데이터를 기반으로 자동 마이그레이션 로직 구현.
+
+#### **④ 지능형 연구 및 사업 전략 수립**
+* **AI 기반 전략 수립** — NotebookLM과 Genspark를 활용하여 시장 조사 및 내부 데이터 분석, 팀의 업셀링 전략 및 미래 로드맵 수립 지원.
+
+#### **⑤ 시스템 통합 모니터링 체계 구축 및 고도화**
+* **지표 시각화 및 관제** — Prometheus & Grafana를 연동하여 엔진 상태 및 주요 발송 지표를 실시간 시각화하고 맞춤형 대시보드 구축.
+* **인프라 모니터링** — Zabbix를 활용하여 서버 리소스(CPU, Memory, Disk) 및 네트워크 상태를 전방위적으로 모니터링하는 환경 구성.
+* **장애 대응 최적화** — 임계치 기반의 알람 체계를 세분화하여 장애 발생 시 즉각적인 인지 및 조치가 가능한 통합 알림 시스템 운영.
 
 ---
 
-## React를 활용한 영화 앱
-`개인 프로젝트, 2021~1~2021.1`
+### **날리지포인트 (Knowledge Point)**
+`플랫폼본부 1팀 · 대리 | 2021.03 ~ 2023.12`
 
-개발동기 : React의 기본적인 동작 방법과 구성에 대해 배우고, 기본적인 React 지식을 알고 가기 위하여 진행했다.
+#### **① KT RCS 중계사 SM (2021.03 ~ 2023.12)**
+* **시스템 유지보수 및 기능 고도화** — 고객사 요구사항 분석 및 메시지 전송, 응답 처리, 웹훅 전송 등 핵심 기능 추가 개발 및 에러 대응.
+* **안정성 및 품질 확보** — 스팸 및 이통사 필터링 로직을 연동하여 발송 성공률을 개선하고, Postman/Jmeter를 통한 꼼꼼한 사전 테스트 수행.
+* **주요 성과** — 상용 환경의 주요 에러 케이스 해소 및 메시지 전송 지연 문제 해결.
 
-설명 : API 서버에서 axios로 데이터를 불러왔고, HashRouter와 component를 활용하여 url 경로설정과 UI를 제작했다. UI는 영화에 대한 정보를 간략하거나 상세하게 표시하고, 웹 호스팅은 gh-pages로 깃허브에 웹호스팅을 구현하였다.
+#### **② KT RCS DB 대개체 (2023.04 ~ 2023.11)**
+* **DB 아키텍처 개선** — 대용량 트래픽 처리 시 병목이 발생하는 MySQL 구간을 성능이 우수한 Altibase(In-Memory DB)로 대체.
+* **마이그레이션 및 튜닝** — DB 변경에 따른 코드 및 SQL 쿼리를 전면 수정하고, Jmeter 부하 테스트를 통한 성능 검증 및 최적화 진행.
+* **주요 성과** — DB 처리 병목 구간 해소를 통한 전체적인 시스템 응답 성능 대폭 개선.
 
-Web Site : [leejongwook1.github.io/leejongwook_movie_app_2021](https://leejongwook1.github.io/leejongwook_movie_app_2021/#/)
+#### **③ KT RCS 중계사 및 홀세일 국사 이원화 (2022.10 ~ 2023.03)**
+* **Active-Active 이원화 구축** — 기존 분당 국사의 장애(SPOF)에 대비해 대전 국사를 신규 구축하고 트래픽을 분산 처리할 수 있는 이원화 아키텍처 설계.
+* **메시징 코어 및 스케줄러 개발** — 메시지 전송/응답 API 개발 및 대용량 성공/실패/에러 데이터를 집계하는 통계 스케줄러 신규 구축.
+* **주요 성과** — 코드 리팩토링을 통한 레거시 소스 복잡도 개선 및 안정적인 무중단 서비스 환경 확보.
 
-Github : [github.com/leejongwook1/leejongwook_movie_app_2021](https://github.com/leejongwook1/leejongwook_movie_app_2021)
+#### **④ 헤르메스 양방향 SI (2022.01 ~ 2022.06)**
+* **양방향 통신 시스템 구축** — 사용자의 응답을 수신하고 후속 액션을 처리하는 양방향 메시징 서버 설계 및 구현.
+* **과금 및 권한 관리** — 양방향 서비스 전용 권한 체크 로직과 통계/과금 처리를 위한 배치 스케줄러 개발.
 
 ---
 
-## KT 중계사 및 홀세일 SM/SI
-`회사 업무, 2021~3~2023.12`
+## 🛠 Technical Skills
 
-1. 헤르메스 SM
-- 기간 : 2021.3 ~ 2023.12
-- 개요 : RCS 메시징 서비스
-- 역할 : KT RCS 중계사 및 홀세일 유지보수 업무.
+### **Backend & Messaging**
+* **Languages:** Java 8, Python, JavaScript, SQL
+* **Frameworks:** Spring Boot, MyBatis, JPA, Django, Spring AOP
+* **Engines:** Kakao API, Push (FCM/APNS), Email (SMTP), SMS/LMS/MMS
+* **Middleware:** ActiveMQ
 
-2. 헤르메스 양방향 SI
-- 기간 : 2022.1 ~ 2022.6
-- 개요 : 기업의 A2P 메시지에 대한 단말 사용자의 응답 메시지 처리를 위한 시스템 개발.
-- 역할 : KT 대행사 및 중계사 양방향 메시지 처리를 위한 API 및 스케줄러 개발 및 테스트.
+### **Data & Middleware**
+* **Databases:** Oracle, Altibase, MySQL, MS-SQL
 
-3. 헤르메스 국사 이원화
-- 기간 : 2022.10 ~ 2023.9
-- 개요 : 분당/대전 국사 이원화.
-- 역할 : 중계사 및 홀세일 국사 이원화 개발 및 테스트.
+### **DevOps & Monitoring**
+* **Automation:** n8n Automation
+* **Monitoring:** Prometheus, Grafana, Zabbix
+* **Infra:** Linux
 
+### **AI-Powered Research**
+* **Tools:** NotebookLM, Genspark, OpenAI, Claude
 
-# 프로그래밍 언어 및 도구
+---
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="38">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django logo" width="38">](https://www.djangoproject.com/)  | [<img src="https://t1.daumcdn.net/cfile/tistory/237F6F3E581953CA2F" alt="jquery logo" width="38">](https://jquery.com/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="38">](https://www.python.org/) |  [<img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html logo" width="38">](https://developer.mozilla.org/ko/docs/Web/HTML/HTML5) | [<img src="https://cdn.svgporn.com/logos/css-3.svg" alt="css logo" width="38">](https://www.w3.org/Style/CSS/Overview.en.html)  |
-|---|---|---|---|---|---|
-| [<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode logo" width="38">](https://code.visualstudio.com/)  | [<img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git logo" width="38">](https://git-scm.com/)  | [<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java logo" width="38">](https://www.oracle.com/kr/java/)  |  [<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql logo" width="38">](https://www.mysql.com/) | [<img src="https://images.velog.io/images/jkzombie/post/6b46b754-d1c5-4975-b9da-e798d94258e7/1200px-React-icon.svg.png" alt="React logo" width="38">](https://ko.reactjs.org/) | [<img src="https://blog.kakaocdn.net/dn/oKBfJ/btraoChNOBB/KCcHJ6RVkjegFAJksSAq6k/img.png" alt="Spring boot logo" width="38">](https://spring.io/) |
-| [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvUxGNbWImPtIqIqNHg5qr4hAAKrxnL3Y2w&s" alt="Altibase logo" width="38">](https://altibase.com/kr/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4XACzBXfHnpgJGk_aj1W7DNMIv6BjZCRg5A&s" alt="SVN logo" width="38">](https://tortoisesvn.net/) | [<img src="https://static.wixstatic.com/media/b4a595_d19dc948d9fa4850b5121a43f511b258.png/v1/fill/w_560,h_458,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b4a595_d19dc948d9fa4850b5121a43f511b258.png" alt="Hi-tam logo" width="38">](https://kornec.com/business/solution/hi-tam/) | [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE-ZFEUpKAmmjroP_R9-0rN8RcCa6wKW2h4w&s" alt="Postman logo" width="38">](https://www.postman.com/) |
+## 🚀 Projects
 
+#### **교수와 학생의 일정조율 웹 어플리케이션**
+`팀 프로젝트 | 2020.02 ~ 2020.11`
+* **개발 동기** — 교수와 학생 간의 시험 및 보강 일정 조율 시 발생하는 수많은 제약 사항을 효율적으로 관리하기 위해 기획.
+* **설명** — 공용 캘린더를 통한 일정 통합, 여유 시간대 기반 투표 개설 및 확정 기능을 구현하여 일정 조율 프로세스 자동화.
+* **Github** — [github.com/leejongwook1/Calendar](https://github.com/leejongwook1/Calendar)
 
-# 학력
-- 2011.3 ~ 2014.2 안산 선부고등학교 졸업
-- 2014.3 ~ 2021.2 오산 한신대학교 컴퓨터공학과 졸업
+#### **React와 Firebase를 활용한 Twitter 클론**
+`개인 프로젝트 | 2021.01 ~ 2021.01`
+* **개발 동기** — React Hook과 Firebase(Auth, Storage, Firestore)의 핵심 기능을 숙지하고 실시간 데이터 처리 역량을 강화하기 위해 진행.
+* **설명** — 소셜 인증을 통한 로그인 및 글/사진의 실시간 CRUD를 구현하였으며, 채팅 앱과 유사한 실시간 반응형 UI 구축.
+* **Github** — [github.com/leejongwook1/lwitter](https://github.com/leejongwook1/lwitter)
 
+#### **React를 활용한 영화 정보 검색 앱**
+`개인 프로젝트 | 2021.01 ~ 2021.01`
+* **개발 동기** — React의 컴포넌트 구조와 API 통신(Axios) 기반의 데이터 바인딩 원리를 학습하기 위해 진행.
+* **설명** — 외부 영화 API 데이터를 호출하여 상세 정보를 출력하며, HashRouter를 통한 경로 설정 및 GitHub Pages를 이용한 웹 호스팅 구현.
+* **Github** — [github.com/leejongwook1/leejongwook_movie_app_2021](https://github.com/leejongwook1/leejongwook_movie_app_2021)
 
-# 더 보기
-- GitHub 프로필 : https://github.com/leejongwook1
+---
+
+## 🎓 Education
+* **한신대학교** 컴퓨터공학과 졸업 (2014.03 ~ 2021.02)
+* **안산 선부고등학교** 졸업 (2011.03 ~ 2014.02)
